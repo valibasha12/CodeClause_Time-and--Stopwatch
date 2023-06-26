@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.stopwatch{
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+    background-color: rgb(243, 155, 167);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 20px;
+}
+
+.but1{
+    border-style: none;
+    outline-style: none;
+    color: white;
+    background-color: rgb(255, 56, 56);
+    width:70px;
+    margin-left: 8px;
+    padding: 7px 7px 7px 7px;
+    border-radius: 8px;
+    font-family: "ubuntu";
+    font-weight: 800;
+}
+
+.but2{
+    border-style: none;
+    outline-style: none;
+    color: white;
+    background-color: rgb(31, 126, 189);
+    width:70px;
+    margin-left: 8px;
+    padding: 7px 7px 7px 7px;
+    border-radius: 8px;
+    font-family: "ubuntu";
+    font-weight: 800;
+}
+
+.but3{
+    border-style: none;
+    outline-style: none;
+    color: white;
+    background-color: rgb(47, 71, 9);
+    width:70px;
+    margin-left: 8px;
+    padding: 7px 7px 7px 7px;
+    border-radius: 8px;
+    font-family: "ubuntu";
+    font-weight: 800;
+}
+
+#displaytime{
+    margin-bottom: 20px;
+}
+
